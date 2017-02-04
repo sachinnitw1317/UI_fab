@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+
+    <color name="grey">#BEBEBE</color>
+    <color name="twitter">#23C4FF</color>
+    <color name="twitter_transparency">#23C4FF</color>
+    <color name="fab">#ec5a13</color>
+    <color name="back_1">#cf2156</color>
+    <color name="back_2">#ef5f8b</color>
+
+    <color name="white">#FFFFFF</color>
+
+</resources>
